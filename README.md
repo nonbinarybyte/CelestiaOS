@@ -37,3 +37,27 @@ this is the list of contributors!
 	<tbody>
 </table>
 <!-- readme: contributors -end -->
+
+## Goals
+
+the goals of this project can be found here :3
+
+### Goal 1:
+
+Make it boot to server **OR** non-server version. 
+
+### Goal 2:
+
+Make server version 1.0
+
+### Goal 3:
+
+Make non-server version 1.0
+
+### Goal 4:
+
+Make the server functional for web development.
+
+<hr>
+
+***More goals soon.***
