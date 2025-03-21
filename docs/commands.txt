@@ -1,0 +1,8 @@
+commands.txt is the file for all commands I (nonbinarybyte) will be using!
+
+To Change directories: "cd /directory/directory"
+
+Directories Needed:
+
+nonbinarybyte/Server25-OS/src/kernel
+nonbinarybyte/Server25-OS/src/limine-bootloader
