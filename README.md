@@ -9,7 +9,7 @@
 | Feature  | Date Added  | Implemented?  |
 |---|---|---|
 | Kernel  | 03.21.2025  | Y  |
-| Boot Screen  | -  | N  |
+| Boot Screen  | 03.21.2025  | Y  |
 | Log-In Screen  | -  | N  |
 | Basic Settings  | -  | N  |
 | Basic Wallpapers  | -  | N  |
