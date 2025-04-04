@@ -1,63 +1,103 @@
-# Server25
+# 🌐 Server25 OS 🌐
 
-"Server25" is a very mysterious OS. It's quite slow, However it is advanced! Slow isnt ideal, but it is temporary! It will be faster overtime. Let's get into its features, current & coming soon!
-
-<hr>
-
-## Features
-
-| Feature  | Date Added  | Implemented?  |
-|---|---|---|
-| Kernel  | 03.21.2025  | Y  |
-| Boot Screen  | 03.21.2025  | Y  |
-| Log-In Screen  | -  | N  |
-| Basic Settings  | -  | N  |
-| Basic Wallpapers  | -  | N  |
-| Pacakge Manager  | -  | N  |
-| Log-In Manager  | -  | N  |
-
-next up, is the....(drumroll pls)
-
-## Contributors
-
-this is the list of contributors!
+"Server25" is an OS & Server for everyone new and old! In this readme you will find an *assortment* of helpful things you may need or want to know about Server25-OS!
+## Contributing
 
 <!-- readme: contributors -start -->
-<table>
-	<tbody>
-		<tr>
-            <td align="center">
-                <a href="https://github.com/nonbinarybyte">
-                    <img src="https://avatars.githubusercontent.com/u/184435682?v=4" width="100;" alt="nonbinarybyte"/>
-                    <br />
-                    <sub><b>Kenny | 肯尼</b></sub>
-                </a>
-            </td>
-		</tr>
-	<tbody>
-</table>
 <!-- readme: contributors -end -->
 
-## Goals
 
-the goals of this project can be found here :3
+Contributions are always welcome!
 
-### Goal 1:
+See `/docs/contributing.md` for ways to get started.
 
-Make it boot to server **OR** non-server version. 
+Please adhere to this project's `code of conduct` at ***all*** times.
 
-### Goal 2:
+## License
 
-Make server version 1.0
+The code in this repository is protected under the GPL-v3 Licence. Read the licence for more information.
+## Documentation
 
-### Goal 3:
+[Documentation](https://github.com/nonbinarybyte/Server25-OS/wiki) here.
 
-Make non-server version 1.0
 
-### Goal 4:
+## FAQ
 
-Make the server functional for web development.
+**Q:** When will version 1.0 come out of pre-release/beta?
 
-<hr>
+**A:** we are working as hard as and as fast as we can to get v1.0 out, please be paitent. As for the date we dont have one yet :(
 
-***More goals soon.***
+**Q:** Where do I download the `.iso` file(s)?
+
+**A:** In the google drive, [Here](https://drive.google.com/drive/folders/1jQABcjdxiAZtQbwvjVdxAHa35Kj9H37V?usp=sharing).
+## Running Tests
+
+To run tests, run the following command:
+
+```bash
+git clone https://github.com/nonbinarybyte/Server25-OS.git
+```
+
+then make the changes you want to make or do the tests you want to do, and then make an `issue` or `pull request`, submitting the following changes you want made (with your changed code provided in a `.zip` folder)!
+## Tech Stack
+
+**Vitrual Machine**
+- WEBVM 
+    - [Link](https://webvm.replit.app/)
+- QEMU 
+    - [Link](https://www.qemu.org/)
+
+**Languages**
+
+- Assembly
+- C
+- Bash/Shell
+
+*& more!*
+## Installation
+
+Install the `.iso` from the [Google Drive](https://drive.google.com/drive/folders/1jQABcjdxiAZtQbwvjVdxAHa35Kj9H37V?usp=sharing) of the current Build. Then open a ***Virtual Machine*** to use. Select the choice in your VM that says `CD/ROM` File as `.iso` isnt a option. Select the `.iso` from your local files. Go through the install process, and youre done!
+
+## Hardware Minimums for Install
+
+**RAM:** atleast 4.0GB of RAM.
+
+**HDD/SDD Storage Needed** 256GB needed.
+
+**Archetectures (reccomended):** x86_64, AMD
+
+**Archetectures (not reccomended):** ARM
+## Support
+
+For support use one of the following options below!
+
+1. Join the [Discord](discord.gg/4vkqkpcP7j)
+    - go to the `#Tickets` channel and make a ticket
+    - in the ticket describe the issue(s) you're having & provide as much detail as possible!
+2. Email kenny! kennythefemme@gmail.com is his email.
+3. make an issue or pull request.
+
+## Accessibility Support
+
+For any accebility changes please contact `nonbinarybyte` if possible or make a github issue or PR!
+
+**Accessibility WILL be taken care of faster as it enhances user experience!**
+
+![Accessibility Badge](https://img.shields.io/badge/Accessibility-%230170EA.svg?style=for-the-badge&logo=Accessibility&logoColor=white)
+
+## Feedback
+
+If you have any feedback, please reach out to us on our [Discord Server](https://readme.so/discord.gg/4vkqkpcP7j) & make a **TICKET**
+
+## Acknowledgements
+
+**NONE OF THE LINKS HERE ARE AFFILATE LINKS UNLESS THEY HAVE A ❤️ EMOJI NEXT TO THEM!**
+
+0. Readme.so `Readme Creation`
+    - [Link](https://www.readme.so/)
+1. GitHub `for version control & making things easily accessable`
+    - [Link](https://www.github.com/)
+2. Google Drive `for file storage`
+    - [Link](https://www.drive.google.com/)
+3. Discord `easy, fast, & accesible communication`
+    - [Link](https://www.discord.com/)
