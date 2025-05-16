@@ -1,6 +1,6 @@
-# 🌐 Server25 OS 🌐
+# 🌐 CelestiaOS 🌐
 
-"Server25" is an OS & Server for everyone new and old! In this readme you will find an *assortment* of helpful things you may need or want to know about Server25-OS!
+"Celestia" is an OS for everyone new and old! In this readme you will find an *assortment* of helpful things you may need or want to know about this Operating system!!
 ## Contributing
 
 <!-- readme: contributors -start -->
@@ -31,7 +31,7 @@ Please adhere to this project's `code of conduct` at ***all*** times.
 The code in this repository is protected under the GPL-v3 Licence. Read the licence for more information.
 ## Documentation
 
-[Documentation](https://github.com/nonbinarybyte/Server25-OS/wiki) here.
+[Documentation](https://github.com/nonbinarybyte/CelestiaOS/wiki) here.
 
 
 ## FAQ
@@ -42,13 +42,13 @@ The code in this repository is protected under the GPL-v3 Licence. Read the lice
 
 **Q:** Where do I download the `.iso` file(s)?
 
-**A:** In the google drive, [Here](https://drive.google.com/drive/folders/1jQABcjdxiAZtQbwvjVdxAHa35Kj9H37V?usp=sharing).
+**A:** In the google drive, [Here](https://drive.google.com/drive/folders/1LOi-YkCmQL4d6TWcQYDS1eXi5NFb2Axa?usp=drive_link).
 ## Running Tests
 
 To run tests, run the following command:
 
 ```bash
-git clone https://github.com/nonbinarybyte/Server25-OS.git
+git clone https://github.com/nonbinarybyte/CelestiaOS.git
 ```
 
 then make the changes you want to make or do the tests you want to do, and then make an `issue` or `pull request`, submitting the following changes you want made (with your changed code provided in a `.zip` folder)!
@@ -69,7 +69,7 @@ then make the changes you want to make or do the tests you want to do, and then 
 *& more!*
 ## Installation
 
-Install the `.iso` from the [Google Drive](https://drive.google.com/drive/folders/1jQABcjdxiAZtQbwvjVdxAHa35Kj9H37V?usp=sharing) of the current Build. Then open a ***Virtual Machine*** to use. Select the choice in your VM that says `CD/ROM` File as `.iso` isnt a option. Select the `.iso` from your local files. Go through the install process, and youre done!
+Install the `.iso` from the [Google Drive](https://drive.google.com/drive/folders/1LOi-YkCmQL4d6TWcQYDS1eXi5NFb2Axa?usp=sharing) of the current Build. Then open a ***Virtual Machine*** to use. Select the choice in your VM that says `CD/ROM` File as `.iso` isnt a option. Select the `.iso` from your local files. Go through the install process, and youre done!
 
 ## Hardware Minimums for Install
 
@@ -84,11 +84,8 @@ Install the `.iso` from the [Google Drive](https://drive.google.com/drive/folder
 
 For support use one of the following options below!
 
-1. Join the [Discord](discord.gg/4vkqkpcP7j)
-    - go to the `#Tickets` channel and make a ticket
-    - in the ticket describe the issue(s) you're having & provide as much detail as possible!
-2. Email kenny! kennythefemme@gmail.com is his email.
-3. make an issue or pull request.
+1. Email kenny! kennythefemme@gmail.com is his email.
+2. make an issue or pull request.
 
 ## Accessibility Support
 
@@ -100,7 +97,7 @@ For any accebility changes please contact `nonbinarybyte` if possible or make a 
 
 ## Feedback
 
-If you have any feedback, please reach out to us on our [Discord Server](https://readme.so/discord.gg/4vkqkpcP7j) & make a **TICKET**
+If you have any feedback, please reach out to us.
 
 ## Acknowledgements
 
