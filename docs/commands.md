@@ -5,8 +5,16 @@
 cd /directory/directory
 ```
 
-# Compiling w/ GCC
+# QEMU CMDS
+
+## Create disc img
 
 ```bash
-gcc test.c -o 
+qemu-img create myimage.img mysize
+```
+
+## Run the VM
+
+```bash
+qemu-system-x86_64 [options] [disk_image]
 ```
