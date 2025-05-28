@@ -77,9 +77,8 @@ Install the `.iso` from the [Google Drive](https://drive.google.com/drive/folder
 
 **HDD/SDD Storage Needed** max 6GB.
 
-**Archetectures (reccomended):** x86_64, AMD
+**Archetectures (reccomended):** x86_64
 
-**Archetectures (not reccomended):** ARM
 ## Support
 
 For support use one of the following options below!
