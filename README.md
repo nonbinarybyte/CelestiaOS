@@ -75,7 +75,7 @@ Install the `.iso` from the [Google Drive](https://drive.google.com/drive/folder
 
 **RAM:** atleast 4.0GB of RAM.
 
-**HDD/SDD Storage Needed** 256GB needed.
+**HDD/SDD Storage Needed** max 6GB.
 
 **Archetectures (reccomended):** x86_64, AMD
 
@@ -84,8 +84,8 @@ Install the `.iso` from the [Google Drive](https://drive.google.com/drive/folder
 
 For support use one of the following options below!
 
-1. Email kenny! kennythefemme@gmail.com is his email.
-2. make an issue or pull request.
+1. make an issue or...
+2. fork & pull request.
 
 ## Accessibility Support
 
